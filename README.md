@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**thebigblender/thebigblender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## hi i'm big blender
+i make stuff sometimes
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### currently building
+
+**BIGWAV** — kinda like Letterboxd for music and more. self-hosted coz its less work. pls help.
+
+---
+
+### skills
+
+`Rust` `Python` `Go` 
+`Blender` `DaVinci Resolve`
+
+---
+
+### elsewhere
+
+[ArtStation](https://artstation.com/bigblender) &nbsp;·&nbsp;
